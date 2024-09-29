@@ -1,10 +1,18 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.1cc5cd29.js",
+    "main.js": "/portfolio/static/js/main.fa523f4e.js",
+    "static/media/degree.png": "/portfolio/static/media/degree.010d6f92bc07853d1e3b.png",
+    "static/media/saralWeb.png": "/portfolio/static/media/saralWeb.ba19a60f2c1c4a1bb6aa.png",
+    "static/media/leetcode.png": "/portfolio/static/media/leetcode.c85e75e071197b83781a.png",
+    "static/media/ace.jpeg": "/portfolio/static/media/ace.59d42cc8ecbe2a108693.jpeg",
+    "static/media/gynger.png": "/portfolio/static/media/gynger.bcd5d4d753935561c848.png",
+    "static/media/SMERP.png": "/portfolio/static/media/SMERP.149861c48c2931eac2ce.png",
+    "static/media/SFS.png": "/portfolio/static/media/SFS.ddb866f0c2ad6ca5375c.png",
+    "static/media/saral.png": "/portfolio/static/media/saral.e83e060a3fc9f04ce32c.png",
     "index.html": "/portfolio/index.html",
-    "main.1cc5cd29.js.map": "/portfolio/static/js/main.1cc5cd29.js.map"
+    "main.fa523f4e.js.map": "/portfolio/static/js/main.fa523f4e.js.map"
   },
   "entrypoints": [
-    "static/js/main.1cc5cd29.js"
+    "static/js/main.fa523f4e.js"
   ]
 }
